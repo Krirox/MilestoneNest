@@ -102,7 +102,7 @@ The frontend application will be available at `http://localhost:5173`.
 
 ## 🔗 API Documentation
 
-For detailed information about the Backend API endpoints, WebSocket events, and database models, please refer to the [Backend README](./backend/README.md).
+For detailed information about the Backend API endpoints, WebSocket events, and database models, please refer to [Backend README](./backend/README.md).
 
 ## 🤝 Contributing
 
