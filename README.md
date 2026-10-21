@@ -2,7 +2,7 @@
 
 Milestonenest is a comprehensive project management application designed to streamline team collaboration, task tracking, and milestone achievement. It combines a modern, interactive frontend with a robust, real-time backend to deliver a premium user experience.
 
-## 🚀 Features
+## Features
 
 - **Project Management**: Create and manage multiple projects with ease.
 - **Task Tracking**: Kanban-style task boards with drag-and-drop functionality.
